@@ -1,7 +1,7 @@
 # Mobile Game Retention Analysis
 
 ## Project Overview
-As a data analysis engineering student, I built this project to practice game analytics skills for roles like Kabam's Game Data Analyst Co-op. Using the Gamelytics dataset (inspired by F2P mobile games like Marvel Contest of Champions), I analyzed player retention, churn patterns, and A/B test impacts.
+As a data analysis engineering student, I built this project to practice game analytics skills for Kabam's Game Data Analyst Co-op role. Using the Gamelytics dataset (inspired by F2P mobile games like Marvel Contest of Champions), I analyzed player retention, churn patterns, and A/B test impacts.
 
 **Key Focus**: Calculating Day 1/Day 7 retention, building cohort curves, and creating actionable insights for improving player engagement.
 
@@ -40,4 +40,4 @@ This project taught me to handle real-world game data challenges, like deriving 
 
 ---
 
-*Built by [Your Name] | [LinkedIn/GitHub Link] | November 2025*
+*Built by Ganbold Bold | www.linkedin.com/in/ganbold-bold08 | November 2025*
